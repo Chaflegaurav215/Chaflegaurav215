@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data enthusiast in progress.<br>SQL, analytics, clean logic, and good vibes only.
+Data & Development enthusiast in progress.<br>SQL, analytics, clean logic, and good vibes only.
 
 
 ## 🌐 Socials:
