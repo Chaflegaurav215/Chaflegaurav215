@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data & Development enthusiast in progress.<br>PSQL, analytics, clean logic, and good vibes only.
+Data & Development enthusiast in progress..
 
 
 ## 🌐 Socials:
